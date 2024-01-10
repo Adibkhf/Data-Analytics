@@ -25,7 +25,6 @@ CREATE TABLE car_market_data (
 -- LINES TERMINATED BY '\n'
 -- IGNORE 1 ROWS;
 
--- 3. Example Queries
 
 -- Average price of cars by make
 SELECT make, AVG(price) AS average_price
