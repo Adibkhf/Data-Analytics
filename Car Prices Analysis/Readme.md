@@ -28,8 +28,7 @@ The project aims to answer critical questions about the Moroccan car market:
 - **SQL**: For database management and queries.
 - **Tableau**: For creating an Interactive Dashboard to visualize findings.
 
-## Repository Structure## Repository Structure
-- [`.ipynb_checkpoints`](./.ipynb_checkpoints): Jupyter notebook checkpoints.
+## Repository Structure
 - [`Car data (clean).xlsx`](./Car%20data%20(clean).xlsx): Cleaned dataset.
 - [`Car prices Analysis.ipynb`](./Car%20prices%20Analysis.ipynb): Jupyter notebook for analysis.
 - [`car.png`](./car.png), [`car2.png`](./car2.png): Project-related images.
