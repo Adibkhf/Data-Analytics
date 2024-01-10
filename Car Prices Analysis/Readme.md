@@ -41,18 +41,3 @@ The project aims to answer critical questions about the Moroccan car market:
 - `YourPythonQueryFile.py`: Python equivalent of SQL queries.
 - `YourTableauDashboard.twb`: Tableau Interactive Dashboard.
 
-## How to Run
-Details on how to set up the environment, install dependencies, and run the scripts.
-
-## Contributing
-Guidelines for contributing to this project.
-
-## License
-Specify the license, if applicable.
-
-## Contact
-Your contact information for queries or collaborations.
-
-## Acknowledgments
-Credits to anyone who helped or inspired this project.
--------
