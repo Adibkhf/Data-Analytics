@@ -28,17 +28,18 @@ The project aims to answer critical questions about the Moroccan car market:
 - **SQL**: For database management and queries.
 - **Tableau**: For creating an Interactive Dashboard to visualize findings.
 
-## Repository Structure
-- `.ipynb_checkpoints`: Jupyter notebook checkpoints.
-- `Car data (clean).xlsx`: Cleaned dataset.
-- `Car prices Analysis.ipynb`: Jupyter notebook for analysis.
-- `car.png`, `car2.png`: Project-related images.
-- `data_concatenation.py`: Script for merging datasets.
-- `data_Morocco_cars.xlsx`, `data_moteur_ma.xlsx`, `data_tomobila_ma.xlsx`, `data_wandaloo_ma.xlsx`: Raw datasets.
-- `Extract_link_*.py`: Scripts for extracting links.
-- `Liens voitures.xlsx`, `Link *.xlsx`: Extracted links.
-- `scrap_*.py`: Web scraping scripts.
-- `YourSQLFile.sql`: SQL queries for data analysis.
-- `YourPythonQueryFile.py`: Python equivalent of SQL queries.
-- `YourTableauDashboard.twb`: Tableau Interactive Dashboard.
+## Repository Structure## Repository Structure
+- [`.ipynb_checkpoints`](./.ipynb_checkpoints): Jupyter notebook checkpoints.
+- [`Car data (clean).xlsx`](./Car%20data%20(clean).xlsx): Cleaned dataset.
+- [`Car prices Analysis.ipynb`](./Car%20prices%20Analysis.ipynb): Jupyter notebook for analysis.
+- [`car.png`](./car.png), [`car2.png`](./car2.png): Project-related images.
+- [`data_concatenation.py`](./data_concatenation.py): Script for merging datasets.
+- [`data_Morocco_cars.xlsx`](./data_Morocco_cars.xlsx), [`data_moteur_ma.xlsx`](./data_moteur_ma.xlsx), [`data_tomobila_ma.xlsx`](./data_tomobila_ma.xlsx), [`data_wandaloo_ma.xlsx`](./data_wandaloo_ma.xlsx): Raw datasets.
+- [`Extract_link_moteur_ma.py`](./Extract_link_moteur_ma.py), [`Extract_link_tomobila_ma.py`](./Extract_link_tomobila_ma.py), [`extract_link_wandaloo.py`](./extract_link_wandaloo.py): Scripts for extracting links.
+- [`Liens voitures.xlsx`](./Liens%20voitures.xlsx), [`Link moteur_ma.xlsx`](./Link%20moteur_ma.xlsx), [`Link tomobila_ma.xlsx`](./Link%20tomobila_ma.xlsx), [`Link wandaloo.xlsx`](./Link%20wandaloo.xlsx): Extracted links.
+- [`scrap_moteur_ma.py`](./scrap_moteur_ma.py), [`scrap_tomobila_ma.py`](./scrap_tomobila_ma.py), [`scrap_wandaloo.py`](./scrap_wandaloo.py): Web scraping scripts.
+- [`EDA Analysis.sql`](./EDA%20Analysis.sql): SQL queries for data analysis.
+- [`EDA Analysis pandas.py`](./EDA%20Analysis%20pandas.py): Pandas file equivalent of SQL queries.
+- [`YourTableauDashboard.twb`](./YourTableauDashboard.twb): Tableau Interactive Dashboard.
+
 
