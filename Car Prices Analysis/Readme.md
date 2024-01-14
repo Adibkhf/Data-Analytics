@@ -1,4 +1,4 @@
-# Car Prices Analysis in the Moroccan Market
+# Car Prices Analysis of the Moroccan Market
 
 ## Project Overview
 This project is dedicated to exploring and understanding the dynamics of the Moroccan car market. Comprehensive data from major car listing websites - moteur.ma, tomobila.ma, and wandaloo.ma - has been meticulously collected and analyzed to provide deep insights into the market.
