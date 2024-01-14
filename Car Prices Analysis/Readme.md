@@ -39,6 +39,6 @@ The project aims to answer critical questions about the Moroccan car market:
 - [`scrap_moteur_ma.py`](./scrap_moteur_ma.py), [`scrap_tomobila_ma.py`](./scrap_tomobila_ma.py), [`scrap_wandaloo.py`](./scrap_wandaloo.py): Web scraping scripts.
 - [`EDA Analysis.sql`](./EDA%20Analysis.sql): SQL queries for data analysis.
 - [`EDA Analysis pandas.py`](./EDA%20Analysis%20pandas.py): Pandas file equivalent of SQL queries.
-- [`YourTableauDashboard.twb`](./YourTableauDashboard.twb): Tableau Interactive Dashboard.
+- [`YourTableauDashboard.twb`](https://public.tableau.com/app/profile/adib.khaffaji/viz/Tableau_viz_of_car_price_analysis/Dashboard1): Tableau Interactive Dashboard.
 
 
