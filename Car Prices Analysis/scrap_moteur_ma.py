@@ -56,12 +56,6 @@ def fetch_and_extract(l):
     return extract_data(soup)
 
 
-# =============================================================================
-# 
-# l = 'https://www.moteur.ma/fr/voiture/achat-voiture-occasion/detail-annonce/349615/mercedes-sprinter-.html'
-# res = fetch_and_extract(l)
-# =============================================================================
-
 # Load URLs from Excel file
 df = pd.read_excel('Link moteur_ma.xlsx')
 links = df['Link'].tolist()
