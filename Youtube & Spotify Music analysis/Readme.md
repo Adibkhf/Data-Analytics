@@ -49,22 +49,18 @@ The dataset includes the following variables for each song:
 - **SQL**: For data querying and manipulation.
 - **Jupyter Notebook**: For conducting and presenting data analysis.
 - **Pandas & Matplotlib**: For data processing and visualization.
+- **Tableau Online**: For Visualization.
+  
+- ## Repository Structure
 
-## Repository Structure
+- [`.ipynb_checkpoints`](./.ipynb_checkpoints): Contains checkpoints of Jupyter notebooks.
+- [`EDA Analysis pandas.py`](./EDA%20Analysis%20pandas.py): Python script for Exploratory Data Analysis using Pandas.
+- [`EDA Analysis SQL.sql`](./EDA%20Analysis%20SQL.sql): SQL script for Exploratory Data Analysis.
+- [`pic1.png`](./pic1.png), [`pic2.png`](./pic2.png), [`pic3.png`](./pic3.png): Descriptives Images.
+- [`Spotify_Youtube.csv`](./Spotify_Youtube.csv): Combined dataset of Spotify and YouTube metrics.
+- [`Youtube Cleaned data.xlsx`](./Youtube%20Cleaned%20data.xlsx): Cleaned dataset.
+- [`Youtube.ipynb`](./Youtube.ipynb): Jupyter notebook for YouTube data analysis.
 
-- `.ipynb_checkpoints`: Contains checkpoints of Jupyter notebooks.
-- `advanced_pandas_queries.txt`: Advanced queries used in data analysis.
-- `EDA Analysis pandas.py`: Python script for Exploratory Data Analysis using Pandas.
-- `EDA Analysis SQL.sql`: SQL script for Exploratory Data Analysis.
-- `pic1.png`, `pic2.png`, `pic3.png`: Visualizations and charts.
-- `Spotify_Youtube.csv`: Combined dataset of Spotify and YouTube metrics.
-- `Youtube Cleaned data.xlsx`: Cleaned YouTube data.
-- `Youtube.ipynb`: Jupyter notebook for YouTube data analysis.
 
-## How to Run
-
-1. **Data Setup**: Ensure `Spotify_Youtube.csv` and `Youtube Cleaned data.xlsx` are placed in the project directory.
-2. **Jupyter Notebooks**: Open `Youtube.ipynb` for YouTube analysis. Run `EDA Analysis pandas.py` for pandas data analysis.
-3. **SQL Analysis**: Execute `EDA Analysis SQL.sql` in an SQL environment for additional insights.
 
 
