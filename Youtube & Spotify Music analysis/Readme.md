@@ -3,6 +3,7 @@
 ## Project Overview
 
 This project involves a comprehensive analysis of song popularity on two major digital platforms: Spotify and YouTube. Utilizing a rich dataset from Kaggle, the project aims to decipher the correlation between various musical characteristics and the online engagement metrics of songs. The insights derived from this analysis are anticipated to be valuable for artists, producers, and marketers in the music industry.
+![Project Image](pic2.png)
 
 ## Objectives
 
@@ -14,15 +15,33 @@ This project involves a comprehensive analysis of song popularity on two major d
 
 The dataset includes the following variables for each song:
 
-- **Track**: Name of the song as on Spotify.
-- **Artist**: Name of the artist.
-- **Url_spotify**: The URL of the song on Spotify.
-- **Album**: The album containing the song on Spotify.
-- **Album_type**: Whether the song is released as a single or in an album.
-- **Uri**: Spotify link for the song.
-- **Danceability, Energy, Key, Loudness, Speechiness, Acousticness, Instrumentalness, Liveness, Valence, Tempo, Duration_ms**: Various musical characteristics.
-- **Stream**: Number of streams on Spotify.
-- **Url_youtube, Title, Channel, Views, Likes, Comments, Description, Licensed, official_video**: Corresponding YouTube metrics.
+- **Track**: Name of the song as listed on Spotify.
+- **Artist**: The artist or band that performed the song.
+- **Url_spotify**: The URL link to the song on Spotify.
+- **Album**: The album in which the song is featured on Spotify.
+- **Album_type**: Indicates if the song is released as a single or is part of an album.
+- **Uri**: A unique Spotify URI for accessing the song.
+- **Danceability**: A measure of how suitable a track is for dancing, ranging from 0.0 (least danceable) to 1.0 (most danceable).
+- **Energy**: A perceptual measure of intensity and activity, rated between 0.0 and 1.0.
+- **Key**: The key of the track, represented in standard Pitch Class notation.
+- **Loudness**: The overall loudness of a track in decibels (dB).
+- **Speechiness**: Measures the presence of spoken words in a track, with higher values indicating more speech.
+- **Acousticness**: A confidence measure of whether the track is acoustic, ranging from 0.0 to 1.0.
+- **Instrumentalness**: Predicts whether a track does not contain vocals, with values closer to 1.0 indicating instrumental tracks.
+- **Liveness**: Detects the presence of an audience in the recording.
+- **Valence**: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track.
+- **Tempo**: The overall estimated tempo of a track in beats per minute (BPM).
+- **Duration_ms**: The duration of the track in milliseconds.
+- **Stream**: The number of streams of the song on Spotify.
+- **Url_youtube**: The URL of the video linked to the song on YouTube.
+- **Title**: Title of the YouTube video.
+- **Channel**: Name of the channel that published the YouTube video.
+- **Views**: Number of views on YouTube.
+- **Likes**: Number of likes on the YouTube video.
+- **Comments**: Number of comments on the YouTube video.
+- **Description**: Description of the YouTube video.
+- **Licensed**: Indicates if the video is licensed content.
+- **official_video**: A boolean value indicating if the video is the official music video of the song.
 
 ## Tools and Technologies Used
 
@@ -45,10 +64,7 @@ The dataset includes the following variables for each song:
 ## How to Run
 
 1. **Data Setup**: Ensure `Spotify_Youtube.csv` and `Youtube Cleaned data.xlsx` are placed in the project directory.
-2. **Jupyter Notebooks**: Open `Youtube.ipynb` for YouTube analysis. Run `EDA Analysis pandas.py` for Spotify data analysis.
+2. **Jupyter Notebooks**: Open `Youtube.ipynb` for YouTube analysis. Run `EDA Analysis pandas.py` for pandas data analysis.
 3. **SQL Analysis**: Execute `EDA Analysis SQL.sql` in an SQL environment for additional insights.
 
-## Conclusions
-
-The project concludes with a set of actionable insights for music industry stakeholders, highlighting the key factors that contribute to a song's popularity on Spotify and YouTube. These insights are instrumental in shaping future music production and marketing strategies.
 
