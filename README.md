@@ -4,7 +4,7 @@ Welcome to my Data Analytics Portfolio. This collection showcases my dedication 
 
 ## Car Prices Analysis of the Moroccan Market
 
-![Car Prices Analysis Overview](/Car Prices Analysis/car.png)
+![Car Prices Analysis Overview](/Car%20Prices%20Analysis/car.png)
 
 In this project, I delve into the dynamics of the car market in Morocco, utilizing data from several major car listing websites to provide a comprehensive analysis. The insights drawn aim to inform on pricing strategies, consumer preferences, and the technical factors that affect car value.
 
@@ -13,7 +13,7 @@ In this project, I delve into the dynamics of the car market in Morocco, utilizi
 - In-depth exploratory data analysis using Python.
 - Interactive visualizations with Tableau.
 
-[Explore the Car Prices Analysis Project](<INSERT_CAR_PRICES_PROJECT_LINK_HERE>)
+[Explore the Car Prices Analysis Project](https://github.com/Adibkhf/Data-Analytics/tree/main/Car%20Prices%20Analysis)
 
 ## Analysis of Song Popularity on Spotify and YouTube
 
