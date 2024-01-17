@@ -63,7 +63,7 @@ The dataset includes the following variables for each song:
 
 - ## Dashboard
 
-- [`Link`](.https://public.tableau.com/views/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [`Link`](https://public.tableau.com/views/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity?:language=en-US&:display_count=n&:origin=viz_share_link): Tableau Interactive Dashboard.
 
 
 
