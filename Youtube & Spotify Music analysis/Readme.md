@@ -61,6 +61,10 @@ The dataset includes the following variables for each song:
 - [`Youtube Cleaned data.xlsx`](./Youtube%20Cleaned%20data.xlsx): Cleaned dataset.
 - [`Youtube.ipynb`](./Youtube.ipynb): Jupyter notebook for YouTube data analysis.
 
+- ## Dashboard
+
+- [`Link`](.https://public.tableau.com/views/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 
