@@ -63,7 +63,8 @@ The dataset includes the following variables for each song:
 
 - ## Dashboard
   
-- Tableau Online 
+- Tableau Online
+  
 [![Morocco Auto Market: Comprehensive Price & Trend Analysis](Youtube_visualization.PNG)](https://public.tableau.com/views/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity?:language=fr-FR&:display_count=n&:origin=viz_share_link)
 
 
