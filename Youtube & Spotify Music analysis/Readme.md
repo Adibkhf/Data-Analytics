@@ -51,7 +51,7 @@ The dataset includes the following variables for each song:
 - **Pandas & Matplotlib**: For data processing and visualization.
 - **Tableau Online**: For Visualization.
   
-- ## Repository Structure
+## Repository Structure
 
 - [`.ipynb_checkpoints`](./.ipynb_checkpoints): Contains checkpoints of Jupyter notebooks.
 - [`EDA Analysis pandas.py`](./EDA%20Analysis%20pandas.py): Python script for Exploratory Data Analysis using Pandas.
@@ -61,7 +61,7 @@ The dataset includes the following variables for each song:
 - [`Youtube Cleaned data.xlsx`](./Youtube%20Cleaned%20data.xlsx): Cleaned dataset.
 - [`Youtube.ipynb`](./Youtube.ipynb): Jupyter notebook for YouTube data analysis.
 
-- ## Dashboard
+## Dashboard
   
 - Tableau Online
   
