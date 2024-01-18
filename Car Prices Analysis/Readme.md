@@ -40,6 +40,6 @@ The project aims to answer critical questions about the Moroccan car market:
 - [`EDA Analysis.sql`](./EDA%20Analysis.sql): SQL queries for data analysis.
 - [`EDA Analysis pandas.py`](./EDA%20Analysis%20pandas.py): Pandas file equivalent of SQL queries.
 ## Dashboard
-- Tableau Online:
+- Tableau Online
   
 [![Morocco Auto Market: Comprehensive Price & Trend Analysis](Car_visualization.PNG)](https://public.tableau.com/app/profile/adib.khaffaji/viz/Tableau_viz_of_car_price_analysis/Dashboard1)
