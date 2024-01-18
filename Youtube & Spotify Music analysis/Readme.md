@@ -62,8 +62,8 @@ The dataset includes the following variables for each song:
 - [`Youtube.ipynb`](./Youtube.ipynb): Jupyter notebook for YouTube data analysis.
 
 - ## Dashboard
-Tableau online
-
+  
+- Tableau Online 
 [![Morocco Auto Market: Comprehensive Price & Trend Analysis](Youtube_visualization.PNG)](https://public.tableau.com/views/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity/MusicTrendsDashboardAComparativeAnalysisofArtistandTrackPopularity?:language=fr-FR&:display_count=n&:origin=viz_share_link)
 
 
