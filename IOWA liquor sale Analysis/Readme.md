@@ -2,7 +2,27 @@
 
 ## Overview
 
-This project is centered on the detailed analysis of the Iowa Alcohol Sales dataset, as provided by the State of Iowa. The dataset offers extensive data on alcohol sales across various retail outlets in Iowa. Key columns include Invoice/Item Number, Date, Store Number, Store Name, Address, City, Zip Code, Store Location, County Number, and County. The analysis aims to answer critical questions about alcohol sales patterns in the United States.
+In this project, we undertake a comprehensive analysis of the Iowa Alcohol Sales dataset, provided by the State of Iowa. The dataset is a valuable resource that records detailed alcohol sales across various retail outlets in Iowa, offering insights into consumer behavior, sales trends, and market dynamics in the alcohol industry. Our analysis aims to uncover patterns in alcohol consumption, identify popular products, and understand pricing strategies across different regions. By leveraging data cleaning, transformation, and advanced analytics, we aim to provide a detailed overview of the alcohol sales landscape in Iowa, which could serve as a representative sample for broader sales trends in the United States.
+
+## Objectives
+
+The primary objectives of this project are:
+
+1. To clean and preprocess the dataset for accurate analysis.
+2. To perform exploratory data analysis to understand the dataset's characteristics.
+3. To visualize key trends and patterns in alcohol sales data.
+4. To compare and contrast findings using both SQL and Python (Pandas) for data querying.
+5. To derive actionable insights that can inform stakeholders in the alcohol sales industry.
+
+## Project Steps
+
+The project is structured into five key steps:
+
+1. **Data Cleaning:** This involves handling missing values, correcting inconsistencies in data types, and removing duplicate entries to ensure data quality.
+2. **Data Transformation and Manipulation:** In this step, we perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
+3. **Exploratory Data Analysis (EDA):** Here, we explore the dataset to find patterns, relationships, and anomalies to inform our subsequent analysis.
+4. **Data Visualization:** Utilizing various visualization tools, we create graphs and charts that clearly communicate the findings from our analysis.
+5. **Comparative Analysis with SQL and Pandas:** We employ both SQL queries and Pandas DataFrame operations to analyze the dataset, comparing the methodologies and results obtained from each approach.
 
 ## Dataset Description
 
@@ -16,15 +36,6 @@ The dataset comprises several columns, each providing valuable information:
 - **Store Location:** Geographical coordinates of the store.
 - **County Number, County:** County details where the store is located.
 
-## Objectives
-
-The primary goals of this project are:
-
-1. **Data Cleaning:** Handling missing values, correcting data types, and removing duplicates.
-2. **Data Transformation and Manipulation:** Aggregating, sorting, and restructuring data for analysis.
-3. **Data Visualization:** Creating informative visualizations to understand sales trends.
-4. **SQL and Pandas Queries:** Utilizing both SQL and Pandas for data querying to compare methodologies.
-
 ## Methodology
 
 - **Python Libraries:** Use of libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization.
@@ -33,15 +44,3 @@ The primary goals of this project are:
 - **Data Visualization:** Developing charts and graphs to represent sales data effectively.
 
 ## Results and Conclusion
-
-*This section will include key findings and insights derived from the dataset after the analysis is completed.*
-
-## How to Use
-
-*Instructions on how to set up the environment, install dependencies, and run the analysis scripts.*
-
-## Acknowledgements
-
-Data originally published by the State of Iowa and republished on Kaggle.
-
----
