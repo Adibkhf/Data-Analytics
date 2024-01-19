@@ -67,8 +67,6 @@ The dataset includes the following columns:
 - Volume Sold (Liters)
 - Volume Sold (Gallons)
 
-[Further details and summary statistics of the data]
-
 ## Methodology
 
 - **Python Libraries:** Utilization of Pandas, NumPy, and Matplotlib for data manipulation and visualization.
