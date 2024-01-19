@@ -2,45 +2,77 @@
 
 ## Overview
 
-In this project, we undertake a comprehensive analysis of the Iowa Alcohol Sales dataset, provided by the State of Iowa. The dataset is a valuable resource that records detailed alcohol sales across various retail outlets in Iowa, offering insights into consumer behavior, sales trends, and market dynamics in the alcohol industry. Our analysis aims to uncover patterns in alcohol consumption, identify popular products, and understand pricing strategies across different regions. By leveraging data cleaning, transformation, and advanced analytics, we aim to provide a detailed overview of the alcohol sales landscape in Iowa, which could serve as a representative sample for broader sales trends in the United States.
+This project delves into the Iowa Alcohol Sales dataset, encompassing detailed transaction records from Iowan liquor stores. The dataset offers a rich array of data fields including transaction identifiers, dates, store details (number, name, address, location), category information, vendor details, and specifics of the liquor sold (type, volume, cost, sales figures). Our analysis aims to unearth key insights into consumer purchasing patterns, popular liquor categories, sales trends, and geographical distribution of alcohol sales in Iowa. 
+
+## Dataset Source
+
+The dataset for this analysis has been sourced from Kaggle. It can be accessed and downloaded from the following link: [Iowa Liquor Sales Dataset on Kaggle](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales?resource=download).
 
 ## Objectives
 
-The primary objectives of this project are:
+Our primary objectives are to:
 
-1. To clean and preprocess the dataset for accurate analysis.
-2. To perform exploratory data analysis to understand the dataset's characteristics.
-3. To visualize key trends and patterns in alcohol sales data.
-4. To compare and contrast findings using both SQL and Python (Pandas) for data querying.
-5. To derive actionable insights that can inform stakeholders in the alcohol sales industry.
+- Clean and preprocess the dataset for robust analysis.
+- Perform exploratory data analysis to uncover underlying patterns.
+- Visualize the data to reveal trends and insights.
+- Provide answers to critical questions relating to alcohol sales.
+
+## Potential Analysis Questions
+
+1. What are the top-selling liquor categories in Iowa?
+2. How do liquor sales vary by region and store location?
+3. What are the peak sales periods for liquor in Iowa?
+4. Is there a correlation between the type of liquor sold and the location of the store?
+5. How do bottle volume and pack size impact sales?
+6. What are the pricing trends for different types of liquor?
+7. Are there any notable differences in sales patterns between counties?
+8. What is the distribution of alcohol sales across different store sizes?
+9. How has the volume of alcohol sold in gallons changed over the years?
+10. Which vendors contribute most to the sales in Iowa?
 
 ## Project Steps
 
-The project is structured into five key steps:
-
-1. **Data Cleaning:** This involves handling missing values, correcting inconsistencies in data types, and removing duplicate entries to ensure data quality.
-2. **Data Transformation and Manipulation:** In this step, we perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
-3. **Exploratory Data Analysis (EDA):** Here, we explore the dataset to find patterns, relationships, and anomalies to inform our subsequent analysis.
-4. **Data Visualization:** Utilizing various visualization tools, we create graphs and charts that clearly communicate the findings from our analysis.
-5. **Comparative Analysis with SQL and Pandas:** We employ both SQL queries and Pandas DataFrame operations to analyze the dataset, comparing the methodologies and results obtained from each approach.
+1. **Data Discovery:** Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
+2. **Data Cleaning:** Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
+3. **Data Transformation and Manipulation:** Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
+4. **Exploratory Data Analysis (EDA):** Investigate the dataset to find patterns, relationships, and anomalies to inform subsequent analysis.
+5. **Data Visualization:** Employ various visualization tools to create graphs and charts, providing clear communication of the findings from our analysis.
 
 ## Dataset Description
 
-The dataset comprises several columns, each providing valuable information:
+The dataset includes the following columns:
 
-- **Invoice/Item Number:** A unique identifier for each transaction.
-- **Date:** The date of the transaction.
-- **Store Number:** An identifier for the store where the transaction occurred.
-- **Store Name:** Name of the store.
-- **Address, City, Zip Code:** Location details of the store.
-- **Store Location:** Geographical coordinates of the store.
-- **County Number, County:** County details where the store is located.
+- Invoice/Item Number
+- Date
+- Store Number
+- Store Name
+- Address
+- City
+- Zip Code
+- Store Location
+- County Number
+- County
+- Category
+- Category Name
+- Vendor Number
+- Vendor Name
+- Item Number
+- Item Description
+- Pack
+- Bottle Volume (ml)
+- State Bottle Cost
+- State Bottle Retail
+- Bottles Sold
+- Sale (Dollars)
+- Volume Sold (Liters)
+- Volume Sold (Gallons)
+
+[Further details and summary statistics of the data]
 
 ## Methodology
 
-- **Python Libraries:** Use of libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization.
-- **SQL:** Application of SQL queries for data extraction and analysis.
-- **Data Cleaning:** Techniques like imputation and filtering applied to refine the dataset.
-- **Data Visualization:** Developing charts and graphs to represent sales data effectively.
+- **Python Libraries:** Utilization of Pandas, NumPy, and Matplotlib for data manipulation and visualization.
+- **Data Cleaning and Transformation:** Ensuring data quality and appropriateness for analysis.
+- **EDA and Visualization:** Employing statistical techniques and visualization tools to extract and present insights.
 
-## Results and Conclusion
+## Summary 
