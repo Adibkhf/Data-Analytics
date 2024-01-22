@@ -35,7 +35,7 @@ Our primary objectives are to:
 1. **Data Discovery:** Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
 2. **Data Cleaning:** Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
 3. **Data Transformation and Manipulation:** Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
-4. **Exploratory Data Analysis and Insightful Visualization:** This step involves a thorough investigation of the dataset to identify patterns, relationships, and anomalies, and the use of advanced visualization techniques to effectively communicate these findings. This integrated approach ensures a cohesive understanding of the data, enabling more informed and insightful analysis.
+4. **Exploratory Data Analysis and Insightful Visualization:** Dive into the dataset to uncover trends and anomalies, and employ visual tools to illustrate these insights clearly.
 
 ## Dataset Description
 
