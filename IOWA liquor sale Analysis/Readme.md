@@ -35,7 +35,6 @@ Our primary objectives are to:
 14. Are there socio-economic factors influencing sales patterns between counties?
 15. How does legislative change or population growth affect the volume of alcohol sold in gallons over the years?
 
-You can use these directly in your README file.
 ## Project Steps
 
 1. **Data Discovery:** Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
