@@ -13,7 +13,9 @@ In this project, I delve into the dynamics of the car market in Morocco, utilizi
 - In-depth exploratory data analysis using Python.
 - Interactive visualizations with Tableau.
 
-[Explore the Car Prices Analysis Project](https://github.com/Adibkhf/Data-Analytics/tree/main/Car%20Prices%20Analysis)
+
+[![Morocco Auto Market: Comprehensive Price & Trend Analysis](/Car%20Prices%20Analysis/Car_visualization.PNG)](https://github.com/Adibkhf/Data-Analytics/tree/main/Car%20Prices%20Analysis)
+
 
 ## Analysis of Song Popularity on Spotify and YouTube
 
