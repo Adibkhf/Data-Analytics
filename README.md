@@ -19,7 +19,7 @@ In this project, I delve into the dynamics of the car market in Morocco, utilizi
 
 ## Analysis of Song Popularity on Spotify and YouTube
 
-![Music Analysis Overview](/Youtube%20%26%20Spotify%20Music%20analysis/pic1.png)
+![Music Analysis Overview](c/pic1.png)
 
 This project takes on the digital music scene, analyzing the popularity of songs on Spotify and YouTube. It leverages a rich dataset to decode the correlation between musical features and online engagement, providing valuable insights for artists, producers, and industry marketers.
 
@@ -28,7 +28,8 @@ This project takes on the digital music scene, analyzing the popularity of songs
 - Trend analysis in music consumption and audience preferences.
 - Comprehensive data-driven reporting for strategic decision-making.
 
-[Discover the Music Analysis Project](https://github.com/Adibkhf/Data-Analytics/tree/main/Youtube%20%26%20Spotify%20Music%20analysis)
+[![ Music Analysis Project](/Youtube%20%26%20Spotify%20Music%20analysis/Youtube_visualization.PNG)](https://github.com/Adibkhf/Data-Analytics/tree/main/Youtube%20%26%20Spotify%20Music%20analysis)
+
 
 ---
 
