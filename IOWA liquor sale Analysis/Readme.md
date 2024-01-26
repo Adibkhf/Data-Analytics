@@ -23,18 +23,11 @@ Our primary objectives are to:
 2. How do liquor sales vary by region and store location?
 3. What are the peak sales periods for liquor in Iowa?
 4. Is there a correlation between the type of liquor sold and the location of the store?
-5. How do bottle volume and pack size impact sales?
-6. What are the pricing trends for different types of liquor?
-7. Are there any notable differences in sales patterns between counties?
-8. What is the distribution of alcohol sales across different store sizes?
-9. How has the volume of alcohol sold in gallons changed over the years?
-10. Which vendors contribute most to the sales in Iowa?
-11. How do demographic factors affect liquor sales in different store locations?
-12. What factors contribute to the peak sales periods for liquor in Iowa?
-13. How does local demographics impact the correlation between the type of liquor sold and store location?
-14. Are there socio-economic factors influencing sales patterns between counties?
-15. How does legislative change or population growth affect the volume of alcohol sold in gallons over the years?
-
+5. What are the pricing trends for different types of liquor?
+6. Are there any notable differences in sales patterns between counties?
+7. What is the distribution of alcohol sales across different store sizes?
+8. How does legislative change or population growth affect the volume of alcohol sold in gallons over the years?
+   
 ## Project Steps
 
 1. **Data Discovery:** Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
