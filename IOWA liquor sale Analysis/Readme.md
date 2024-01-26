@@ -27,7 +27,9 @@ Our primary objectives are to:
 6. Are there any notable differences in sales patterns between counties?
 7. What is the distribution of alcohol sales across different store sizes?
 8. How does legislative change or population growth affect the volume of alcohol sold in gallons over the years?
-   
+9. Is there a correlation between the type of liquor sold and the location of the store?
+10. What are the trends in liquor sales volume (in liters and gallons) over time in Iowa?
+
 ## Project Steps
 
 1. **Data Discovery:** Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
