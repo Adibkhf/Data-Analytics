@@ -59,14 +59,15 @@ The dataset includes the following columns:
 - Volume Sold (Liters)
 - Volume Sold (Gallons)
 
-## Project Steps
+## Data Analysis Workflow
 
-1. [**Data Discovery**](./Data%20Discovery.py) - Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
-2. [**Data Cleaning**](./Data%20Cleaning.py) - Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
-3. [**Data Transformation and Manipulation**](./Data%20Transformation.py) - Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
-4. [**Exploratory Data Analysis and Insightful Visualization**](./Iowa_Liquor_Sales_Analysis.ipynb) - Dive into the dataset to uncover trends and anomalies, and employ visual tools to illustrate these insights clearly.
-5. [**EDA using SQL**](./EDA.sql) - Analyze the data using advanced SQL queries.
-6. [**EDA using Pandas**](./EDA%20Pandas.py) - Perform exploratory data analysis using Python Pandas.
+1. [**Data Discovery**](./Data%20Discovery.py) - Initial exploration of the raw dataset to understand its structure, check for missing values, and determine data types.
+2. [**Data Cleaning**](./Data%20Cleaning.py) - Cleaning the dataset to handle missing values, fix data type inconsistencies, and remove duplicates to ensure the integrity of the data.
+3. [**Data Transformation**](./Data%20Transformation.py) - Manipulating the dataset through sorting, aggregating, and other transformations to format the data for analysis.
+4. [**Exploratory Data Analysis (EDA)**](./Iowa_Liquor_Sales_Analysis.ipynb) - Conducting EDA to discover patterns, detect anomalies, and generate hypotheses from the dataset, with visualizations to support findings.
+5. [**SQL Data Exploration**](./EDA.sql) - Utilizing SQL queries for in-depth analysis and to extract specific insights from the dataset.
+6. [**Pandas Data Analysis**](./EDA%20Pandas.py) - Leveraging the Pandas library in Python for data analysis to complement SQL findings.
+7. [**BigQuery Data Analysis**](./EDA_BigQuery.py) - Performing advanced data analysis using Google BigQuery to handle large-scale data efficiently and extract complex insights.
 
 ## Methodology
 
