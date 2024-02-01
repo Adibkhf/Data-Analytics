@@ -30,15 +30,6 @@ Our primary objectives are to:
 9. Is there a correlation between the type of liquor sold and the location of the store?
 10. What are the trends in liquor sales volume (in liters and gallons) over time in Iowa?
 
-## Project Steps
-
-1. [**Data Discovery**](./Data%20Discovery.py) - Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
-2. [**Data Cleaning**](./Data%20Cleaning.py) - Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
-3. [**Data Transformation and Manipulation**](./Data%20Transformation.py) - Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
-4. [**Exploratory Data Analysis and Insightful Visualization**](./Iowa_Liquor_Sales_Analysis.ipynb) - Dive into the dataset to uncover trends and anomalies, and employ visual tools to illustrate these insights clearly.
-5. [**EDA using SQL**](./EDA.sql) - Analyze the data using advanced SQL queries.
-6. [**EDA using Pandas**](./EDA%20Pandas.py) - Perform exploratory data analysis using Python Pandas.
-
 ## Dataset Description
 
 The dataset includes the following columns:
@@ -67,6 +58,15 @@ The dataset includes the following columns:
 - Sale (Dollars)
 - Volume Sold (Liters)
 - Volume Sold (Gallons)
+
+## Project Steps
+
+1. [**Data Discovery**](./Data%20Discovery.py) - Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
+2. [**Data Cleaning**](./Data%20Cleaning.py) - Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
+3. [**Data Transformation and Manipulation**](./Data%20Transformation.py) - Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
+4. [**Exploratory Data Analysis and Insightful Visualization**](./Iowa_Liquor_Sales_Analysis.ipynb) - Dive into the dataset to uncover trends and anomalies, and employ visual tools to illustrate these insights clearly.
+5. [**EDA using SQL**](./EDA.sql) - Analyze the data using advanced SQL queries.
+6. [**EDA using Pandas**](./EDA%20Pandas.py) - Perform exploratory data analysis using Python Pandas.
 
 ## Methodology
 
