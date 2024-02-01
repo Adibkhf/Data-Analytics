@@ -67,7 +67,7 @@ The dataset includes the following columns:
 4. [**Exploratory Data Analysis (EDA)**](./Iowa_Liquor_Sales_Analysis.ipynb) - Conducting EDA to discover patterns, detect anomalies, and generate hypotheses from the dataset, with visualizations to support findings.
 5. [**SQL Data Exploration**](./EDA.sql) - Utilizing SQL queries for in-depth analysis and to extract specific insights from the dataset.
 6. [**Pandas Data Analysis**](./EDA%20Pandas.py) - Leveraging the Pandas library in Python for data analysis to complement SQL findings.
-7. [**BigQuery Data Analysis**](./EDA_BigQuery.py) - Performing advanced data analysis using Google BigQuery to handle large-scale data efficiently and extract complex insights.
+7. [**BigQuery Data Analysis**](./EDA%20BigQuery.py) - Performing advanced data analysis using Google BigQuery to handle large-scale data efficiently and extract complex insights.
 
 ## Methodology
 
