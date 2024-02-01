@@ -32,11 +32,10 @@ Our primary objectives are to:
 
 ## Project Steps
 
-1. **Data Discovery:** [Data Discovery](./Data%20Discovery.py) - Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
-2. **Data Cleaning:** [Data Cleaning](./Data%20Cleaning.py) - Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
-3. **Data Transformation and Manipulation:** [Data Transformation](./Data%20Transformation.py) - Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
-4. **Exploratory Data Analysis and Insightful Visualization:** [Iowa Liquor Sales Analysis](./Iowa_Liquor_Sales_Analysis.ipynb) - Dive into the dataset to uncover trends and anomalies, and employ visual tools to illustrate these insights clearly.
-
+1. [**Data Discovery**](./Data%20Discovery.py) - Explore the raw dataset to understand its structure, identify missing values, and ascertain the data types.
+2. [**Data Cleaning**](./Data%20Cleaning.py) - Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
+3. [**Data Transformation and Manipulation**](./Data%20Transformation.py) - Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
+4. [**Exploratory Data Analysis and Insightful Visualization**](./Iowa_Liquor_Sales_Analysis.ipynb) - Dive into the dataset to uncover trends and anomalies, and employ visual tools to illustrate these insights clearly.
 
 ## Dataset Description
 
