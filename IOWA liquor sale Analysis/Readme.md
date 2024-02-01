@@ -36,6 +36,8 @@ Our primary objectives are to:
 2. [**Data Cleaning**](./Data%20Cleaning.py) - Address missing values, correct inconsistencies in data types, and remove duplicate entries to ensure data quality.
 3. [**Data Transformation and Manipulation**](./Data%20Transformation.py) - Perform operations such as aggregating data, sorting, and restructuring to prepare the dataset for in-depth analysis.
 4. [**Exploratory Data Analysis and Insightful Visualization**](./Iowa_Liquor_Sales_Analysis.ipynb) - Dive into the dataset to uncover trends and anomalies, and employ visual tools to illustrate these insights clearly.
+5. [**EDA using SQL**](./EDA.sql) - Analyze the data using advanced SQL queries.
+6. [**EDA using Pandas**](./EDA%20Pandas.py) - Perform exploratory data analysis using Python Pandas.
 
 ## Dataset Description
 
@@ -71,5 +73,9 @@ The dataset includes the following columns:
 - **Python Libraries:** Utilization of Pandas, NumPy, and Matplotlib for data manipulation and visualization.
 - **Data Cleaning and Transformation:** Ensuring data quality and appropriateness for analysis.
 - **EDA and Visualization:** Employing statistical techniques and visualization tools to extract and present insights.
+
+## Download Transformed Dataset
+
+The transformed dataset, ready for analysis, is available for download. You can access it via the following link: [Download Transformed Dataset](https://drive.google.com/file/d/1tPRLodYTXV8fO2tyQgsjc-VEKX_xhdeA/view?usp=sharing).
 
 ## Summary 
