@@ -78,5 +78,3 @@ The dataset includes the following columns:
 ## Download Transformed Dataset
 
 The transformed dataset, ready for analysis, is available for download. You can access it via the following link: [Download Transformed Dataset](https://drive.google.com/file/d/1tPRLodYTXV8fO2tyQgsjc-VEKX_xhdeA/view?usp=sharing).
-
-## Summary 
