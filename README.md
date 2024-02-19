@@ -26,6 +26,19 @@ This project takes on the digital music scene, analyzing the popularity of songs
 
 [![ Music Analysis Project](/Youtube%20%26%20Spotify%20Music%20analysis/Youtube_visualization.PNG)](https://github.com/Adibkhf/Data-Analytics/tree/main/Youtube%20%26%20Spotify%20Music%20analysis)
 
+## Iowa Alcohol Sales Data Analysis
+
+This project explores the Iowa Alcohol Sales dataset, offering a comprehensive analysis of liquor sales across the state. Through meticulous data cleaning, transformation, and exploratory data analysis, the study uncovers consumer purchasing patterns, identifies popular liquor categories, and analyzes sales trends and geographic distribution. The project not only provides insights into the alcohol sales landscape in Iowa but also showcases the application of advanced data analysis techniques.
+
+### Highlights:
+- Detailed data cleaning and preprocessing for analysis readiness.
+- Extensive exploratory data analysis to uncover underlying sales patterns.
+- Data visualization to illustrate trends and insights across various dimensions.
+- Use of Python and SQL for data manipulation and analysis, with Google BigQuery for handling large datasets.
+- Insightful findings on sales trends, regional preferences, and impact of legislative changes on alcohol sales.
+
+[![Iowa Alcohol Sales Analysis](/Iowa_Alcohol_Sales_Analysis/pic1.png)](https://github.com/Adibkhf/Data-Analytics/tree/main/Iowa_Alcohol_Sales_Analysis)
+
 
 ---
 
