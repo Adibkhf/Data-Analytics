@@ -37,7 +37,7 @@ This project explores the Iowa Alcohol Sales dataset, offering a comprehensive a
 - Use of Python and SQL for data manipulation and analysis, with Google BigQuery for handling large datasets.
 - Insightful findings on sales trends, regional preferences, and impact of legislative changes on alcohol sales.
 
-[![Iowa Alcohol Sales Analysis](/Iowa_Alcohol_Sales_Analysis/pic1.png)](https://github.com/Adibkhf/Data-Analytics/tree/main/Iowa_Alcohol_Sales_Analysis)
+[![Iowa Alcohol Sales Analysis](/Iowa_Alcohol_Sales_Analysis/pic1.png)](https://github.com/Adibkhf/Data-Analytics/tree/main/IOWA%20liquor%20sale%20Analysis)
 
 
 ---
